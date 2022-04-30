@@ -2,7 +2,7 @@
 
 ![login](https://user-images.githubusercontent.com/87750128/166095903-7e9646aa-8f5d-466c-9137-13d08bc64ba5.gif)
 
-# Message
+# Posting message
 
 
 ![message](https://user-images.githubusercontent.com/87750128/166095914-eb85cb6c-9a1a-46f8-b3e6-3c11212addbb.gif)
@@ -12,7 +12,7 @@
 
 ![logout](https://user-images.githubusercontent.com/87750128/166095921-822d7a07-c043-4a03-99ff-1719a31a40b8.gif)
 
-# Adding new user
+# Adding new user and message
 
 ![new_user](https://user-images.githubusercontent.com/87750128/166095926-8611d77c-98cc-4f84-8c2e-28a16abafce8.gif)
 
